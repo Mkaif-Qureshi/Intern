@@ -1,14 +1,82 @@
 {
-    "PlanningGuide": {
+  "plannings": [
+      {
+          "image": "/images/kitchen.jpg",
+          "title": "Kitchen planning",
+          "subtitle": "Free, available online or at an Ayatrio location",
+          "description" : "Book a kitchen planning appointment and an IKEA kitchen planning expert will help you design your dream kitchen. Bring measurements of your space and a drawing or picture of the area and we will tailor your plan to meet your needs.",
+          "button": "Book a kitchen planning appointment",
+          "links": [
+              "Try online kitchen planners",
+              "Learn more about kitchen services",
+              "Browse kitchen ideas"
+          ]
+      },
+      {
+          "image": "/images/business.jpg",
+          "title": "Ayatrio for Business",
+          "subtitle": "Free, available online or at an Ayatrio location",
+          "description" : "Book an appointment with an IKEA Business specialist who will help you plan furniture and storage solutions for your business. Whether you need help setting up a new office, creating a kitchenette in your breakroom, organizing your storage room or setting up a display area to showcase your products. Bring measurements of your space, and our specialists will help you create functional solutions for your business.",
+          "button": "Book a business planning appointment",
+          "links": [
+              "Learn more about business services"
+          ]
+      },
+      {
+          "image": "/images/wardrobe.jpg",
+          "title": "Wardrobe planning",
+          "subtitle": "Free, available online or at an Ayatrio location",
+          "description" : "Book an appointment with an IKEA wardrobe expert who will assist you in planning your dream wardrobe or closet solution. You provide measurements of your space, and we will help you design a functional storage solution that suits your needs.",
+          "button": "Book a wardrobe planning appointment",
+          "links": [
+              "Try online clothing storage planners",
+              "Browse clothing storage ideas"
+          ]
+      },
+      {
+          "image": "/images/livingroom.jpg",
+          "title": "Living room storage planning",
+          "subtitle": "Free, available online or at an Ayatrio location",
+          "description" : "Book an appointment with an IKEA living room expert who will assist you in planning your living room storage needs. You provide measurements of your space, and we will tailor your storage solution to display what you want and hide the rest.",
+          "button": "Book a living room planning appointment",
+          "links": [
+              "Try online living room storage planners",
+              "Browse living room storage ideas"
+          ]
+      },
+      {
+          "image": "/images/Home.jpg",
+          "title": "Home office planning",
+          "subtitle": "Free, available online",
+          "description" : "Book an appointment and an IKEA home office specialist will assist you in planning your home office, study or gaming space. You provide us with measurements of your area, and we will plan a functional solution that meets your needs.",
+          "button": "Book a home office planning appointment",
+          "links": [
+              "Try online home office planners",
+              "Browse home office ideas"
+          ]
+      },
+      {
+          "image": "/images/bathroom.jpg",
+          "title": "Bathroom planning",
+          "subtitle": "Free, available online",
+          "description" : "Book an appointment with an IKEA bathroom specialist who will provide advice and inspiration while planning your ideal bathroom. You provide measurements of your space, and we will help you design a functional solution that suits your needs.",
+          "button": "Book a bathroom planning appointment",
+          "links": [
+              "Try online bathroom planner",
+              "Browse bathroom ideas"
+          ]
+      }
+  ],
+
+  "PlanningGuide": {
       "title": "How Ayatrio planning services work",
       "steps": [
-        "*Get inspired* with all our free online planning tools. Take notes on which styles, colors, products, and ideas you like so it’s easier for us to understand what designs and looks you prefer.",
-        "*Choose a need.* Do you want help with a space or whole room? A particular furniture system? For your home or business? Browse the furnishing areas below to find the planning service you need.",
-        "*Book an appointment* using the links below.",
-        "*Measure and list.* We’ll need details about the space or room. Record measurements of height, width, and depth as well as positions/dimensions of electrical outlets, doors, windows, etc. Make a list of your needs.",
-        "*Bring your measurements,* list of needs, and style notes to the appointment. A drawing or photo of the space is useful, too. We’ll discuss layouts and solutions to create a plan and a shopping list.",
-        "*Take time to assess the plan and next steps.* Do you need to make changes? Start over? Buy now? When you’re ready, visit us online or in-store to order."
+          "*Get inspired* with all our free online planning tools. Take notes on which styles, colors, products, and ideas you like so it’s easier for us to understand what designs and looks you prefer.",
+          "*Choose a need.* Do you want help with a space or whole room? A particular furniture system? For your home or business? Browse the furnishing areas below to find the planning service you need.",
+          "*Book an appointment* using the links below.",
+          "*Measure and list.* We’ll need details about the space or room. Record measurements of height, width, and depth as well as positions/dimensions of electrical outlets, doors, windows, etc. Make a list of your needs.",
+          "*Bring your measurements,* list of needs, and style notes to the appointment. A drawing or photo of the space is useful, too. We’ll discuss layouts and solutions to create a plan and a shopping list.",
+          "*Take time to assess the plan and next steps.* Do you need to make changes? Start over? Buy now? When you’re ready, visit us online or in-store to order."
       ]
-    }
   }
-  
+}
