@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div className='md:px-12 max-w-7xl mx-auto px-6'>
       <PlanningServices />
-      <PlanningGuide content={content}/>
+      <PlanningGuide content={content.PlanningGuide}/>
     </div >
   );
 }
