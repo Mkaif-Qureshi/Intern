@@ -2,6 +2,7 @@ import PlanningServices from './components/PlanningServices'
 import PlanningGuide from './components/PlanningGuide'
 import content from './data/content.json';
 import Plannings from './components/Plannings';
+import Checkout from './components/Checkout';
 
 
 export default function Home() {
@@ -10,6 +11,7 @@ export default function Home() {
       <PlanningServices />
       <PlanningGuide content={content.PlanningGuide} />
       <Plannings content={content.plannings} />
+      <Checkout content={content.checkout} />
     </div >
   );
 }

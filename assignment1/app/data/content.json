@@ -79,4 +79,35 @@
           "*Take time to assess the plan and next steps.* Do you need to make changes? Start over? Buy now? When you’re ready, visit us online or in-store to order."
       ]
   }
+  ,
+  "checkout" : [
+    {
+        "icon" : "/icons/click.svg",
+      "title": "Click & Collect",
+      "description": "Buy online, pick-up in-store and we will bring it to you.",
+      "linkText": "Learn more",
+      "linkUrl": "#"
+    },
+    {
+        "icon" : "/icons/Assembly.svg",
+      "title": "TaskRabbit Assembly",
+      "description": "Find flexible and affordable ways to get your to-dos done.",
+      "linkText": "Learn more",
+      "linkUrl": "#"
+    },
+    {
+        "icon" : "/icons/delivery.svg",
+      "title": "Delivery",
+      "description": "Shop from home and get it delivered to your front door.",
+      "linkText": "Learn more",
+      "linkUrl": "#"
+    },
+    {
+        "icon" : "/icons/card.svg",
+      "title": "Financing options",
+      "description": "Finance your dream home with our credit cards.",
+      "linkText": "Read more",
+      "linkUrl": "#"
+    }
+  ]
 }
