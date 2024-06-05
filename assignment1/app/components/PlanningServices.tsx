@@ -1,7 +1,7 @@
 export default function PlanningServices() {
     return (
         <>
-            <div className="w-full mb-12 mt-8">
+            <div className="w-full my-12">
                 <h1 className="text-black text-4xl font-semibold mb-12">
                     Planning services
                 </h1>
@@ -33,9 +33,8 @@ export default function PlanningServices() {
                         />
                     </div>
                 </div>
+                <hr className="mt-20" />
             </div>
-
-            <hr />
         </>
     );
 }
