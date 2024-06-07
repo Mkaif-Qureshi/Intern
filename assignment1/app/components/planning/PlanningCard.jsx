@@ -21,6 +21,8 @@ export default function PlanningCard({ content = {} }) {
                     ))}
                 </ul>
             </div>
+
+            
         </div>
     );
 }
