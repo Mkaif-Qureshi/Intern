@@ -12,7 +12,7 @@ export default function Installation() {
                             Kitchen installation service
                         </h1>
                         <p className="text-justify px-3 opacity-90 mb-3">
-                            <strong>Do you need your kitchen installed?</strong> Start by booking a planning service. Our IKEA Home Services Provider will guide you through the process from start to finish. Their knowledge and experience will help you build the kitchen of your dreams.
+                            <strong>Do you need your kitchen installed?</strong> Start by booking a planning service. Our Ayatrio Home Services Provider will guide you through the process from start to finish. Their knowledge and experience will help you build the kitchen of your dreams.
                         </p>
                         <div className="h-10"></div>
 
@@ -29,7 +29,7 @@ export default function Installation() {
 
                 <div className="md:w-2/3 mt-6">
                     <p className="text-justify px-3 opacity-80 mb-3">
-                        From $119 per cabinet, IKEA kitchen installation service includes assembly and installation of cabinets from plinths to cover panels. You choose what you need. Pricing is based on cabinet type and quantity. Of course, you can always DIY for free, with help from our guides.
+                        From $119 per cabinet, Ayatrio kitchen installation service includes assembly and installation of cabinets from plinths to cover panels. You choose what you need. Pricing is based on cabinet type and quantity. Of course, you can always DIY for free, with help from our guides.
                     </p>
 
                     <ol className="px-10 opacity-80 list-disc">
@@ -64,7 +64,7 @@ export default function Installation() {
                     </li>
                     <li className="opacity-50"> | </li>
                     <li>
-                        <a href="#" className="underline opacity-90 hover:opacity-100">  Become an IKEA kitchen subcontractor </a>
+                        <a href="#" className="underline opacity-90 hover:opacity-100">  Become an Ayatrio kitchen subcontractor </a>
                     </li>
                     <li className="opacity-50"> | </li>
                     <li>
@@ -87,7 +87,7 @@ export default function Installation() {
                     <h1 className="ml-3 text-lg mb-3"><strong>All basic installation services below include:</strong></h1>
                     <ol className="px-10 opacity-80 list-disc">
                         <li className="mb-3">Daily broom of the job site.</li>
-                        <li className="mb-3">Vacuuming inside IKEA SEKTION cabinets and floor upon completion of installation.</li>
+                        <li className="mb-3">Vacuuming inside Ayatrio SEKTION cabinets and floor upon completion of installation.</li>
                     </ol>
 
                 </div>
@@ -99,9 +99,9 @@ export default function Installation() {
                                 imageSrc="/images/installation/cab1.jpg"
                                 title="Cabinet with door (base, wall or high), starting at $119/cabinet"
                                 description={[
-                                    'Assembly and installation of IKEA SEKTION base cabinets, wall cabinets, high cabinets, doors, cover panels, legs, plinths, shelves, knobs and handles according to manufacturer’s assembly instructions.',
-                                    'Adjustment of all IKEA SEKTION base cabinets, wall cabinets, high cabinets and doors for appearance.',
-                                    'Excludes installation of IKEA SEKTION drawer, drawer front, corner carousel, pull-outs, deco strip, side filler strip, cover caps, cover panel 26” x 36”, 36” x 96” or interior fittings other than shelves.'
+                                    'Assembly and installation of Ayatrio SEKTION base cabinets, wall cabinets, high cabinets, doors, cover panels, legs, plinths, shelves, knobs and handles according to manufacturer’s assembly instructions.',
+                                    'Adjustment of all Ayatrio SEKTION base cabinets, wall cabinets, high cabinets and doors for appearance.',
+                                    'Excludes installation of Ayatrio SEKTION drawer, drawer front, corner carousel, pull-outs, deco strip, side filler strip, cover caps, cover panel 26” x 36”, 36” x 96” or interior fittings other than shelves.'
                                 ]}
                             />
                         </div>
@@ -110,9 +110,9 @@ export default function Installation() {
                                 imageSrc="/images/installation/cab2.jpg"
                                 title="Cabinet with drawer or corner carousel (base or wall), starting at $162/cabinet"
                                 description={[
-                                    "Assembly and installation of IKEA SEKTION base cabinets, wall cabinets, drawers, drawer fronts, doors, cover panels, legs, plinths, shelves, interior fittings, knobs and handles according to manufacturer’s assembly instructions.",
-                                    "Adjustment of all IKEA SEKTION base cabinets, wall cabinets, doors, drawers and drawer fronts for appearance.",
-                                    "Excludes installation of IKEA SEKTION deco strip, side filler strip, cover caps or cover panel 26” x 36”, 36” x 96”"
+                                    "Assembly and installation of Ayatrio SEKTION base cabinets, wall cabinets, drawers, drawer fronts, doors, cover panels, legs, plinths, shelves, interior fittings, knobs and handles according to manufacturer’s assembly instructions.",
+                                    "Adjustment of all Ayatrio SEKTION base cabinets, wall cabinets, doors, drawers and drawer fronts for appearance.",
+                                    "Excludes installation of Ayatrio SEKTION deco strip, side filler strip, cover caps or cover panel 26” x 36”, 36” x 96”"
                                 ]}
                             />
                         </div>
@@ -121,9 +121,9 @@ export default function Installation() {
                                 imageSrc="/images/installation/cab3.jpg"
                                 title="Cabinet with drawer or corner carousel (base or wall), starting at $162/cabinet"
                                 description={[
-                                    "Assembly and installation of IKEA SEKTION high cabinets, drawers, drawer fronts, doors, cover panels, legs, plinths, shelves, interior fittings, knobs and handles according to manufacturer’s assembly instructions.",
-                                    "Adjustment of all IKEA SEKTION high cabinets, doors, drawers, drawer fronts for appearance.",
-                                    "Excludes installation or IKEA SEKTION deco strip, side filler strip, cover caps or cover panel 26” x 36”, 36” x 96”"
+                                    "Assembly and installation of Ayatrio SEKTION high cabinets, drawers, drawer fronts, doors, cover panels, legs, plinths, shelves, interior fittings, knobs and handles according to manufacturer’s assembly instructions.",
+                                    "Adjustment of all Ayatrio SEKTION high cabinets, doors, drawers, drawer fronts for appearance.",
+                                    "Excludes installation or Ayatrio SEKTION deco strip, side filler strip, cover caps or cover panel 26” x 36”, 36” x 96”"
                                 ]}
                             />
                         </div>
@@ -133,7 +133,7 @@ export default function Installation() {
                                 title="Cabinet with drawer or corner carousel (base or wall), starting at $162/cabinet"
                                 description={[
                                     "Additional installation services are priced separately from the basic installation cost. All additional installation services will be priced for you by an independent service provider.",
-                                    "IKEA pre-cut countertops",
+                                    "Ayatrio pre-cut countertops",
                                     "Integrated Lighting (does not include any electrical connection)",
                                     "Gables, molding & fillers",
                                     "Cover caps"
@@ -151,20 +151,20 @@ export default function Installation() {
             <section>
                 <div className="md:w-2/3 mt-6">
                     <h1 className="text-black text-2xl font-semibold mb-12">
-                        <strong>How IKEA kitchen installation service works</strong>
+                        <strong>How Ayatrio kitchen installation service works</strong>
                     </h1>
-                    <h4 className='text-black text-lg font-bold my-6'>Before an IKEA kitchen installation</h4>
+                    <h4 className='text-black text-lg font-bold my-6'>Before an Ayatrio kitchen installation</h4>
                     <ol className="px-10 opacity-80 list-decimal">
-                        <li className="mb-3">Measure, plan and buy your IKEA kitchen. If you haven’t done this already, we can help! Start things off right with correct specifications from our kitchen measuring service. Then, let us design your new kitchen with our kitchen planning service.</li>
-                        <li className="mb-3">Book an installation appointment. Our IKEA Kitchen service team can install your new kitchen.</li>
+                        <li className="mb-3">Measure, plan and buy your Ayatrio kitchen. If you haven’t done this already, we can help! Start things off right with correct specifications from our kitchen measuring service. Then, let us design your new kitchen with our kitchen planning service.</li>
+                        <li className="mb-3">Book an installation appointment. Our Ayatrio Kitchen service team can install your new kitchen.</li>
                         <li className="mb-3">Join the service provider for a site inspection. During this visit, the service provider checks the design vs. the floor plan and confirms measurements. We also will make sure electricity, plumbing, and HVAC have been done to fit the new kitchen layout.</li>
-                        <li className="mb-3">Get your IKEA kitchen home. Delivery is not included in IKEA kitchen installation service.</li>
+                        <li className="mb-3">Get your Ayatrio kitchen home. Delivery is not included in Ayatrio kitchen installation service.</li>
                         <li className="mb-3">Prepare your space. Clean everything out and take care of any work like patching, wall painting, redoing floors, etc. Set up a temporary kitchen. Place all packages in the room where the kitchen will be installed.</li>
                     </ol>
-                    <h4 className='text-black text-lg font-bold my-6'>During and after an IKEA kitchen installation</h4>
+                    <h4 className='text-black text-lg font-bold my-6'>During and after an Ayatrio kitchen installation</h4>
                     <ol className="px-10 opacity-80 list-decimal">
 
-                        <li className="mb-3">Live life while the pros do their work. Every IKEA kitchen installation comes with a workmanship guarantee, so you can feel confident that the installation meets the highest industry standards.</li>
+                        <li className="mb-3">Live life while the pros do their work. Every Ayatrio kitchen installation comes with a workmanship guarantee, so you can feel confident that the installation meets the highest industry standards.</li>
                         <li className="mb-3">When the installation is completed, a walkthrough of the new kitchen will be performed with our install team to make sure the kitchen has been installed as planned and is meeting the customer's expectations.</li>
                         <li className="mb-3">Enjoy cooking in your new kitchen with peace of mind for years, thanks to our warranties (detailed in our full terms and conditions).</li>
                     </ol>
@@ -172,7 +172,6 @@ export default function Installation() {
                 <hr className="mt-20" />
 
             </section>
-
 
             <Faq faqFor='installation' />
 
