@@ -1,4 +1,4 @@
-"use client"
+"use client";
 import React, { useState } from 'react';
 import faqsDataJson from '../data/faq.json';
 
@@ -13,7 +13,7 @@ const FaqSection = ({ faqFor }) => {
     return (
         <section className="grid grid-cols-1 lg:grid-cols-2 gap-6">
             <div className="lg:col-span-2">
-                <h1 className="text-black text-2xl lg:text-4xl font-semibold mb-6 lg:mb-12 px-3">
+                <h1 className="text-black text-2xl lg:text-4xl font-semibold mb-6 lg:mb-12 px-3 lg:text-left">
                     Frequently asked questions
                 </h1>
                 <div>

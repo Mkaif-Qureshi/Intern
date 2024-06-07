@@ -162,7 +162,7 @@ export default function FinanceServicesPage() {
                 </div>
             </div>
 
-            <Faq faqFor='payment'/>
+            <Faq faqFor='payment' />
         </div>
     );
 }
