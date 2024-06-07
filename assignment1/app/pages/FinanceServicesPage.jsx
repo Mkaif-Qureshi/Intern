@@ -1,5 +1,4 @@
 import Faq from '../components/Faq'
-import faqsData from '../data/faq.json';
 
 export default function FinanceServicesPage() {
     return (

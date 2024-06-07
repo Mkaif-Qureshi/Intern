@@ -1,4 +1,46 @@
 {
+  "installation": [
+    {
+      "title": "How can I contact the kitchen experts and how can I submit a kitchen design for review?",
+      "content": "This question explains the process of contacting IKEA's kitchen experts and submitting a kitchen design for review. It includes a link to a web form where users can submit their designs for review over the phone."
+    },
+    {
+      "title": "Can I use the IKEA Shoppable App to book services such as Assembly?",
+      "content": "This question addresses whether the IKEA Shoppable App allows users to book services like assembly. The answer states that such services are not currently available within the app."
+    },
+    {
+      "title": "How much does it cost to have an IKEA kitchen professionally installed?",
+      "content": "This question provides information on the typical cost of professional installation for IKEA kitchens. It states that installation costs are typically around 50% of the purchased kitchen price but may vary depending on the project."
+    },
+    {
+      "title": "Is there a follow up after the kitchen installation is complete?",
+      "content": "This question discusses whether there is follow-up after the completion of kitchen installation. The answer confirms that IKEA follows up with customers to ensure satisfaction and offers ongoing support."
+    },
+    {
+      "title": "Why are our appliances delivered without a power cord?",
+      "content": "This question explains why IKEA appliances are delivered without a power cord, stating that skilled professionals will install the appropriate cords based on customers' homes."
+    },
+    {
+      "title": "How come I can’t get the drawer fronts to align? The top drawer is in the way of the lower ones, and can't be closed properly.",
+      "content": "This question addresses alignment issues with drawer fronts and suggests that improper assembly of the lowest drawer may be the cause."
+    },
+    {
+      "title": "What are filler pieces?",
+      "content": "This question defines filler pieces as elements used to fill the space between cabinets and walls to ensure proper installation."
+    },
+    {
+      "title": "Can I adjust the hinges?",
+      "content": "This question confirms that IKEA hinges are adjustable and explains their functionality."
+    },
+    {
+      "title": "How much ventilation space is needed above the fridge/freezer?",
+      "content": "This question provides guidance on the ventilation space needed above the fridge/freezer."
+    },
+    {
+      "title": "How do I secure my island cabinets to the floor?",
+      "content": "This question discusses securing island cabinets to the floor and suggests using specific support brackets while advising consultation with a professional."
+    }
+  ],
   "payment": [
     {
       "title": "Why does Ayatrio offer financial services?",
