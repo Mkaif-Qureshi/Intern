@@ -63,24 +63,12 @@ export default function ClickAndCollectServicePage() {
             </section>
 
             <section>
-                <div className="w-full md:w-2/3 mb-16">
-                    <h1 className="text-black text-2xl font-bold my-10">How Click and collect works </h1>
-
-                    <ul type='1' className="pl-8 opacity-90">
-                        <li className="mb-3"><strong className="opacity-90">Step 1:</strong> Choose ‘Click and collect’ at checkout and you will be able to select an <a href="" className="underline">Ayatrio Store</a>,
-                            <a href="" className="underline">Pick-up locker</a> or a nearby <a href="" className="underline">Pick-up location</a>, operated by a third-party partner.</li>
-
-                        <li className="mb-3"><strong className="opacity-90">Step 2:</strong> Wait until you receive the “Ready for pickup” email before heading to the store or the Pick-up location.</li>
-
-                        <li className="mb-3"><strong className="opacity-90">Step 3:</strong> Follow the instructions in the email and proceed to your selected store or Pick-up location. While collection will be contactless, pick-up processes may vary from location to location. Further direction will be communicated upon arrival.</li>
-
-                    </ul>
+                <div className='flex-col md:w-2/3 my-8'>
+                    <h1 className='text-black text-4xl font-semibold mb-12'>Click and collect options and pricing</h1>
+                    <p className='text-justify px-3 opacity-90 my-3'>
+                        You can collect your order at an IKEA store or a local Pick-up location. Pricing details, approximate lead time, maximum package specifications, Pick-up locations, etc. are specified below.
+                    </p>
                 </div>
-                <hr className="mt-20" />
-            </section>
-
-            <section>
-
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
                     <div className="col-span-1">
                         <div className="pb-[56.49761904761905%] relative">
@@ -99,7 +87,7 @@ export default function ClickAndCollectServicePage() {
                             </ul>
                         </div>
                         <a href=""
-                            className="block px-4 py-2 text-center bg-black text-white rounded-full mt-4 w-[230px]"
+                            className="block px-4 py-2 text-center bg-black text-white rounded-full mt-4 w-[250px]"
                         >View all Ayatrio store locations</a>
                     </div>
                     <div className="col-span-1">
@@ -131,8 +119,28 @@ export default function ClickAndCollectServicePage() {
                         >Find a FedEx retail location near you</a>
                     </div>
                 </div>
+                <hr className="mt-20" />
 
             </section>
+
+            <section>
+                <div className="w-full md:w-2/3 mb-16">
+                    <h1 className="text-black text-2xl font-bold my-10">How Click and collect works </h1>
+
+                    <ul type='1' className="pl-8 opacity-90">
+                        <li className="mb-3"><strong className="opacity-90">Step 1:</strong> Choose ‘Click and collect’ at checkout and you will be able to select an <a href="" className="underline">Ayatrio Store</a>,
+                            <a href="" className="underline">Pick-up locker</a> or a nearby <a href="" className="underline">Pick-up location</a>, operated by a third-party partner.</li>
+
+                        <li className="mb-3"><strong className="opacity-90">Step 2:</strong> Wait until you receive the “Ready for pickup” email before heading to the store or the Pick-up location.</li>
+
+                        <li className="mb-3"><strong className="opacity-90">Step 3:</strong> Follow the instructions in the email and proceed to your selected store or Pick-up location. While collection will be contactless, pick-up processes may vary from location to location. Further direction will be communicated upon arrival.</li>
+
+                    </ul>
+                </div>
+                <hr className="mt-20" />
+            </section>
+
+
 
 
             <section className='mb-4'>
