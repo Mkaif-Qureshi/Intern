@@ -1,24 +1,46 @@
 {
+  "buy-back": [
+    {
+      "title": "What furniture does Ayatrio buy back to resell? What furniture does Ayatrio not buy back to resell?",
+      "content": "For a complete list of products that we accept and for a complete list of products that we are not currently accepting, click here: https://www.Ayatrio.com/ca/en/customer-service/services/buy-back/?#fb02e6d0-f93f-11ec-a137-35d47cbe4a5f"
+    },
+    {
+      "title": "Which Ayatrio stores participate in Buyback & Resell?",
+      "content": "All Ayatrio stores in Canada are participating in the Ayatrio Sell-back program. Ayatrio Canada Design Studios and Pick-up locations do not participate in the Ayatrio Sell-back program."
+    },
+    {
+      "title": "Where can I buy second hand Ayatrio furniture?",
+      "content": "You can purchase second-hand Ayatrio furniture at the As-is section in an Ayatrio store near you. For more information on As-is and to reserve an item at your local Ayatrio, click here: https://www.Ayatrio.com/ca/en/offers/as-is-pub121fc1f0"
+    },
+    {
+      "title": "What happens if I bring my second hand furniture to an Ayatrio store and Ayatrio doesn’t accept it?",
+      "content": "Prior to heading to the store with your item, please check your application status online to see if the item is approved or not. If your item is not approved, you can learn why it was not approved by checking your application status. The store will not accept items that have not been submitted online via the official application form: https://www.Ayatrio.com/ca/en/customer-service/services/buy-back/Ayatrio-sell-back-program-application-form-pub06050250"
+    },
+    {
+      "title": "Is the Ayatrio Sell-back program only available during Green Friday?",
+      "content": "No, the Ayatrio Sell-back program is available all year, however, during Green Friday, we are offering 2x the Sell-back value for Ayatrio Family members from November 9 – 26, 2023."
+    }
+  ],
   "installation": [
     {
       "title": "How can I contact the kitchen experts and how can I submit a kitchen design for review?",
-      "content": "This question explains the process of contacting IKEA's kitchen experts and submitting a kitchen design for review. It includes a link to a web form where users can submit their designs for review over the phone."
+      "content": "This question explains the process of contacting Ayatrio's kitchen experts and submitting a kitchen design for review. It includes a link to a web form where users can submit their designs for review over the phone."
     },
     {
-      "title": "Can I use the IKEA Shoppable App to book services such as Assembly?",
-      "content": "This question addresses whether the IKEA Shoppable App allows users to book services like assembly. The answer states that such services are not currently available within the app."
+      "title": "Can I use the Ayatrio Shoppable App to book services such as Assembly?",
+      "content": "This question addresses whether the Ayatrio Shoppable App allows users to book services like assembly. The answer states that such services are not currently available within the app."
     },
     {
-      "title": "How much does it cost to have an IKEA kitchen professionally installed?",
-      "content": "This question provides information on the typical cost of professional installation for IKEA kitchens. It states that installation costs are typically around 50% of the purchased kitchen price but may vary depending on the project."
+      "title": "How much does it cost to have an Ayatrio kitchen professionally installed?",
+      "content": "This question provides information on the typical cost of professional installation for Ayatrio kitchens. It states that installation costs are typically around 50% of the purchased kitchen price but may vary depending on the project."
     },
     {
       "title": "Is there a follow up after the kitchen installation is complete?",
-      "content": "This question discusses whether there is follow-up after the completion of kitchen installation. The answer confirms that IKEA follows up with customers to ensure satisfaction and offers ongoing support."
+      "content": "This question discusses whether there is follow-up after the completion of kitchen installation. The answer confirms that Ayatrio follows up with customers to ensure satisfaction and offers ongoing support."
     },
     {
       "title": "Why are our appliances delivered without a power cord?",
-      "content": "This question explains why IKEA appliances are delivered without a power cord, stating that skilled professionals will install the appropriate cords based on customers' homes."
+      "content": "This question explains why Ayatrio appliances are delivered without a power cord, stating that skilled professionals will install the appropriate cords based on customers' homes."
     },
     {
       "title": "How come I can’t get the drawer fronts to align? The top drawer is in the way of the lower ones, and can't be closed properly.",
@@ -30,7 +52,7 @@
     },
     {
       "title": "Can I adjust the hinges?",
-      "content": "This question confirms that IKEA hinges are adjustable and explains their functionality."
+      "content": "This question confirms that Ayatrio hinges are adjustable and explains their functionality."
     },
     {
       "title": "How much ventilation space is needed above the fridge/freezer?",

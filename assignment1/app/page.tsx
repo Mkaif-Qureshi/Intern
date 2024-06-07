@@ -2,6 +2,7 @@ import PlanningServicesPage from './pages/PlanningServicesPage'
 import FinanceServicesPage from './pages/FinanceServicesPage'
 import ClickAndCollectServicePage from './pages/ClickAndCollectServicePage'
 import Installation from './pages/Installation'
+import BuyBackPage from './pages/BuyBackPage'
 
 export default function Home() {
   return (
@@ -9,7 +10,8 @@ export default function Home() {
       {/* <PlanningServicesPage /> */}
       {/* <FinanceServicesPage /> */}
       {/* <ClickAndCollectServicePage /> */}
-      <Installation />
+      {/* <Installation /> */}
+      <BuyBackPage />
     </div>
   );
 }
